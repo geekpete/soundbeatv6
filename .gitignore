@@ -1,0 +1,7 @@
+/.idea
+/build
+
+.DS_Store
+/soundbeat6
+/soundbeat6.test
+*.pyc

@@ -1,0 +1,5 @@
+= Soundbeat6 Docs
+
+Welcome to the Soundbeat6 documentation.
+
+
